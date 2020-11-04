@@ -1,0 +1,9 @@
+[submodule "clownfish-3D-models"]
+	path = clownfish-3D-models
+	url = https://github.com/vnigade/clownfish-3D-models.git
+[submodule "clownfish-analysis"]
+	path = clownfish-analysis
+	url = https://github.com/vnigade/clownfish-analysis.git
+[submodule "clownfish-proto"]
+	path = clownfish-proto
+	url = https://github.com/vnigade/clownfish-proto.git
