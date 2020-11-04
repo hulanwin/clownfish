@@ -20,7 +20,7 @@ This submodule contains code to train (fine-tune) models such as `3D-ResNets`, `
 
 This submodule contains scripts to analyze the accuracy of fusion for different `filter intervals` and `lag` values. It uses the prediction scores (results) of edge and cloud models which are dumped using the above-mentioned submodule (clownfish-3D-models).
 
-3. [clownfish-proto](https://github.com/vnigade/clownfish-proto/tree/cea32be5850ba9a07f8ee5e2b6ec6ce4abacc9fc)
+3. [clownfish-proto](https://github.com/vnigade/clownfish-proto/tree/1a42ab05b070b837895b426a980bf04cb3f9052c)
 
 This submodule implements the Clownfish prototype. It can be used to run Clownfish components on an edge and cloud node, for action recognition task on the `PKU-MMD` dataset.
 
