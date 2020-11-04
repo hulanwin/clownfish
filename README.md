@@ -1,6 +1,16 @@
 # Clownfish
 Edge and Cloud Symbiosis for Video Stream Analytics.
 
+If you find our paper or code useful to your research, please do cite our article.
+```bib
+@inproceedings{nigade2020clownfish,
+  title={{Clownfish}: Edge and Cloud Symbiosis for Video Stream Analytics,
+  author={Vinod Nigade and Lin Wang and Henri Bal},
+  booktitle={{ACM/IEEE} Symposium on Edge Computing ({SEC})},
+  year={2020}
+}
+```
+
 # Getting started
 
 Clone this repository and checkout submodules.
