@@ -12,7 +12,7 @@ $ git submodule update --init --recursive
 
 This repository contains three submodules. 
 
-1. [clownfish-3D-models](https://github.com/vnigade/clownfish-3D-models/tree/4cf31154fb57dff89035661ed665ed4ada444968)
+1. [clownfish-3D-models](https://github.com/vnigade/clownfish-3D-models/tree/16c8c2e101af890e9bbf40842c164c912cd9ae91)
 
 This submodule contains code to train (fine-tune) models such as `3D-ResNets`, `SimiNet`, `EarlyDiscard (3D-MobileNet)`, etc. on the `PKU-MMD` action recognition dataset. It also contains scripts to dump prediction scores (results) in JSON files for videos using a sliding window scheme.
 
